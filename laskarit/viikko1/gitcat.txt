@@ -1,0 +1,107 @@
+$ git log --stat | cat
+commit dd35a238435ada9d5c50677826fc00142808f6a0
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:40:40 2023 +0200
+
+    poisto ja uusinimi
+
+ tiedostoja/file2.txt                 | 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 35ddf9542bea26007459f5f965a7ff01dc443715
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:36:27 2023 +0200
+
+    uusia
+
+ kolmas.txt           | 2 ++
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 4 files changed, 2 insertions(+)
+
+commit 0b3e308ad5ed4fa33e71da3263a498dcb47970b8
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:34:14 2023 +0200
+
+    poistoja ja lisäyksiä
+
+ eka.txt    | 8 ++++----
+ kolmas.txt | 6 +++++-
+ 2 files changed, 9 insertions(+), 5 deletions(-)
+
+commit df6948ae51917e010e93784807567c77c1f0ff14
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:32:06 2023 +0200
+
+    uudeelleennimentä
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit babd5f67087d24df96a97af037672421ff739930
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:31:26 2023 +0200
+
+    poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 496b2066c6fd8c3b4c13c8bef50be11fe5954307
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:30:38 2023 +0200
+
+    editointia
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit fafbeebb93b3cf066cfedb85993248264dc04379
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:29:50 2023 +0200
+
+    paljon tekstiä
+
+ tiedosto.txt | 11 ++++++++++-
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+
+commit 8fe3e6b3b87d9b3ed370dac7ae2f8d07b5fa9234
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:28:44 2023 +0200
+
+    muutoksia ja uusi kansio
+
+ kolmas.txt       | 1 +
+ stuff/teksti.txt | 0
+ toinen.txt       | 1 +
+ 3 files changed, 2 insertions(+)
+
+commit b7f7eaf05fe6e06bab280a3d65b9794cc33fac8d
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:27:21 2023 +0200
+
+    kolmas
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 951455116773300c4df5eb6b7ff1caa4133a379a
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:26:50 2023 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 3fc1c7e34a5ad6c13c2d240e339c568ddc20de1f
+Author: Mikko Ristimäki <mikko.a.ristimaki@gmail.com>
+Date:   Tue Nov 7 21:25:38 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
